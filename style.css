@@ -11,7 +11,7 @@ body {
     position: absolute;
     width: 1000px;
     height: 790px;
-    background: url("data/console.png") no-repeat center/contain;
+    background: url("data/console.PNG") no-repeat center/contain;
 }
 
 #screen {

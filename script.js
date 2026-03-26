@@ -19,7 +19,7 @@ const itemTypes = [
   "data/thing2.jpg",
   "data/thing3.jpg",
   "data/thing4.jpg",
-  "data/thing5.PNG"
+  "data/thing5.png"
 ];
 
 let playerX = gameWidth / 2 - player.offsetWidth / 2;
